@@ -1,0 +1,7 @@
+# folder
+/mlruns
+
+#
+.parquet
+.db
+.bin
