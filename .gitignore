@@ -1,7 +1,7 @@
-# folder
+# Ignore the mlruns folder
 /mlruns
 
-#
-.parquet
-.db
-.bin
+# Ignore files with .parquet, .db, and .bin extensions
+*.parquet
+*.db
+*.bin
