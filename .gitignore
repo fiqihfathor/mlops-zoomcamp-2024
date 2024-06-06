@@ -7,4 +7,4 @@
 *.bin
 
 # Allow Parquet files within 3-orchestration directory
-!3-orchestration/*.parquet
+!3-orchestration/**/*.parquet
