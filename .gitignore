@@ -6,4 +6,4 @@
 *.db
 *.bin
 
-!3-orchestration/data/
+!3-orchestration/*parquet
